@@ -1,0 +1,7 @@
+input_text,output,flag,username,timestamp
+I was sad because my dog died.,"{""I was"": ""emotion_clause"", ""sad because my dog died ."": ""emotion_clause""}",,,2025-04-02 11:12:20.591432
+I am sad because my dog died.,"{""clauses"": [{""clause"": ""I am"", ""label"": ""emotion_clause""}, {""clause"": ""sad"", ""label"": ""emotion_clause""}, {""clause"": ""because my dog died ."", ""label"": ""cause_clause""}]}",,,2025-04-02 12:48:11.143431
+"I I am feeling so sad today. My dog ran away, and I don't know what to do.","{""I I am feeling"": ""neutral"", ""so sad today"": ""neutral"", ""My dog ran"": ""cause_clause"", ""away"": ""cause_clause"", ""and I do n't know"": ""neutral"", ""what to do ."": ""neutral""}",,,2025-04-02 17:00:49.110434
+I am feeling so sad today. My dog died.,"{""clauses"": [{""clause"": ""I am feeling"", ""label"": ""emotion_clause""}, {""clause"": ""so sad today"", ""label"": ""emotion_clause""}, {""clause"": ""My dog died"", ""label"": ""cause_clause""}]}",,,2025-04-17 17:26:03.599738
+I am feeling so sad today. My dog died and I don't know what to do.,"{""clauses"": [{""clause"": ""I am feeling"", ""label"": ""emotion_clause""}, {""clause"": ""so sad today"", ""label"": ""emotion_clause""}, {""clause"": ""My dog died"", ""label"": ""cause_clause""}, {""clause"": ""and I do n't know"", ""label"": ""neutral_clause""}, {""clause"": ""what to do ."", ""label"": ""neutral_clause""}]}",,,2025-04-17 17:28:44.737236
+,,,,2025-04-17 19:26:02.676709
