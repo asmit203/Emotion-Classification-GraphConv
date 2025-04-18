@@ -19,7 +19,7 @@ from tqdm import tqdm
 NUM_EPOCHS = 10000
 
 # with open("/DATA/sujit_2021cs35/nlp_project/code/task 2/results_qwen_9pm.json", "r") as f:
-with open("/DATA/sujit_2021cs35/nlp_project/code/task 2/train_set.json", "r") as f:
+with open("/DATA/sujit_2021cs35/nlp_project/code/task 2/test_set.json", "r") as f:
     data = json.load(f)
     
 all_clauses = []
